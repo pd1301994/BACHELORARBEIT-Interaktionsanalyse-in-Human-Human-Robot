@@ -20,7 +20,7 @@ Here we found following categorization programs:
   
   2. Analyzed texts:
 
-Here are all the texts which where manually analyzed for the comparison of the differrent categorization models.
+Here are all the texts which where analyzed for the comparison of the differrent categorization models.
 
     2.1 Text already analised
   
