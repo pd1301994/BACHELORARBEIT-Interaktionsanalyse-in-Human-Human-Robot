@@ -1,0 +1,13 @@
+MEIN WOCHENENDE -->NC
+Hallo Freunde! -->NC
+Leider ist das Wochenende schon wieder vorbei und ich muss arbeiten.-->ST
+Das Wochenende ist immer super, weil man viel Freizeit hat und vieles erledigen kann.-->ST
+Am Samstag war ich einkaufen und abends habe ich mit Freunden zusammen gekocht und einen Film geschaut.-->ST
+Am Sonntag bin ich mit Fabio in den Park gegangen und wir haben Enten gefüttert.-->ST
+Seid ihr sehr aktiv oder bleibt ihr lieber zuhause?-->ST
+Was macht ihr gerne am Wochenende?-->ST
+
+TOTAL: 20 LINES: 
+INSTR = 0 %
+SMALL_TALK =  75 %
+NC = 25  % 

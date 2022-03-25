@@ -1,0 +1,26 @@
+Übungen: Knie/Knieschule --> IN
+Quadricepsspannung (Kniestrecker) aktivieren: --> IN
+Anwendbar nach Oberschenkel-Knie-Hüft-Operationen, zum Trainieren der Ansteuerung des Muskels, oder zum anfänglichen Wiedererlangen der Muskelkraft am Oberschenkel sowie zur Kniescheibenmobilisation, welche in die Sehne des Kniestreckers eingelassen ist. --> IN
+Übung in Rückenlage oder im Sitz: Zuerst wird das gesunde Bein als Startbein und zum Vergleich beübt. --> IN
+Knie soll in die Unterlage gedrückt werden, das Knie wird also gestreckt. --> IN
+Dann das betroffene Bein beüben.--> IN
+Auf der Mitte des Oberschenkels sollte man deutliche Muskelanspannungen sehen.--> IN
+Kniebänkchen: Diese Übung für das Knie/Knieschule dient der Kniestreckung. --> IN
+Die Kniestreckung ist nach Knie-Operationen häufig schwierig und sollte nach Arztrücksprache trainiert werden. --> IN
+Der Patient liegt in Rückenlage oder befindet sich im Langsitz. --> IN
+Das Knie wird aktiv in Richtung Unterlage gedrückt. --> IN
+Als Hilfe, oder optische Unterstützung, kann man ein zusammengefaltetes Handtuch unter die Kniekehle legen. --> NC
+Übung im schmerzfreien Bereich durchführen. --> IN
+Übung für Beinachse bei X-Bein (genu valgum): --> IN
+Der Patient steht aufrecht und hüftbreit. --> IN
+Grundlage der Übung ist die Kniebeuge. --> IN
+Um die Knie wird ein Theraband geknotet, so dass um beide Beine eine Schlaufe liegt. --> IN 
+Um das Band straff zu halten, müssen die Knie nach außen, in die korrekte gerade Achse des Beines gebracht werden. --> IN
+Dann werden Kniebeugen ausgeführt. --> IN
+Dabei werden die Knie gebeugt, so dass ein langsames Absinken des Gesäßes nach unten, hinten stattfindet, ohne das die Knie über die Fußspitze kommen. --> IN
+
+
+TOTAL: 20 LINES: 
+INSTR = 95 %
+SMALL_TALK = 0 % 
+NC = 5  % 

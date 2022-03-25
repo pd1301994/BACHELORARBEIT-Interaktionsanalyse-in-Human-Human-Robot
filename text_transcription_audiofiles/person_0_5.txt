@@ -1,0 +1,15 @@
+Hallo Freunde I = 2 D = 0 S = 0
+leider ist das Wochenende schon wieder vorbei und ich muss arbeiten  I = 11 D = 0 S = 0
+das Wochenende ist immer super /wenn/ man viel Freizeit  I = 8 D = 0 S = 1
+hat und vieles erledigen I = 4 D= 1 S = 1
+am Samstag war ich einkaufen und abends habe ich mit Freunden I = 11 D = 0 S = 0
+zusammen gekocht und einen Film geschaut I = 6  D = 0 S = 0
+am Sonntag bin ich mit Fabio /Parkgebühren/ gefüttert I = 8 D = 4 S=1
+was macht ihr gerne am Wochenende I = 6 D = 0 S = 0
+seid ihr sehr aktiv oder bleibt ihr lieber zuhause I = 9 D = 0 S = 0
+
+
+(2+11+8+4+11+6+8+6+9) - (1+4) - (1+1+1)
+(65 - 5 - 3) / 74  = 57/74 = 77.02 % 
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/analysis_sentences_type_word" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/analysis_sentences_word_word" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/naive_bayes_text_cat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/transcription-and-text-analysis" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,30 @@
+Aufbau der Leber -->NC
+Äußerer Aufbau der Leber -->NC
+Die Leber ist ein weiches, braunrotes Organ mit einer glatten Oberfläche.-->NC
+ Sie wiegt zwischen 1,5 und 2 Kilogramm und besteht aus 2 Lappen.-->NC
+Der rechte Leberlappen ist größer als der linke und schmiegt sich dicht an das Zwerchfell an.-->NC
+An der Unterseite der Leber befindet sich die Leberpforte.-->NC
+Hier führen Blutgefäße wie die Leberarterie und die Pfortader in die Leber hinein und der Gallengang aus der Leber hinaus.-->NC
+Die Pfortader transportiert Nährstoffe in die Leber, die im Dünndarm und im oberen Teilen des Dickdarms in die Blutbahn aufgenommen wurden.-->NC
+Gleichzeitig gelangen Hormone aus der Bauchspeicheldrüse zur Leber.-->NC
+ Außen ist die Leber von einer Kapsel aus Bindegewebe umgeben.-->NC
+Innerer Aufbau der Leber-->NC
+Die Leber ist in 8 Segmente aufgeteilt.-->NC
+Die Einteilung ergibt sich aus der segmentalen Versorgung durch je einen Gallengang-, Pfortader- und Arterienast.-->NC
+Die einzelnen Segmente arbeiten weitgehend unabhängig voneinander.-->NC
+So ist es zum Beispiel möglich, bei einer Operation zur Entfernung eines Tumors eines oder mehrere Segmente zu entnehmen.-->NC
+Jedes Lebersegment besteht aus vielen winzigen, etwa 1-2 Millimeter großen Leberläppchen.-->NC
+Unter dem Mikroskop haben diese Läppchen eine 6-eckige Form.-->NC
+Die Leberläppchen bestehen zum größten Teil aus Leberzellen (Hepatozyten).-->NC
+Zwischen den Leberzellen befinden sich Blutgefäße (so genannte Sinusoide), die das Blut aus der Leberarterie und der Pfortader in die Zentralvene transportieren.-->NC
+Aus den Sinusoiden gelangen Nähr- und Schadstoffe aus dem Blut in die Leberzellen, wo sie gespeichert, umgewandelt oder abgebaut werden.-->NC
+Auch die Gallenflüssigkeit wird in den Leberzellen gebildet.-->NC
+Sie gelangt in die kleinen Leberkanälchen zwischen den Leberzellen und wird in größeren Gallengängen am Rande der Leberläppchen gesammelt.-->NC
+Diese Gallengänge vereinigen sich mit Gallengängen aus anderen Leberläppchen und bilden schließlich den Gallenhauptgang.-->NC
+Dieser führt an der Leberpforte aus der Leber hinaus zum Zwölffingerdarm. -->NC
+
+
+TOTAL: 24 LINES: 
+INSTR = 0 %
+SMALL_TALK = 0 % 
+NC = 100  % 

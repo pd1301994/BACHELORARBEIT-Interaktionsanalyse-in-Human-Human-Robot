@@ -1,0 +1,23 @@
+Der FC Bayern München hat seine Platzierung unter den umsatzstärksten Fußballklubs Europas auch im zweiten Jahr der Corona-Pandemie behauptet. --> NC 
+Der deutsche Rekordmeister wurde mit einem Umsatz von 611 Millionen Euro in der Saison 2020/21 (634 Mio. in 2019/20) nach Berechnungen der Prüfungs- und Beratungsgesellschaft Deloitte auf Platz drei gelistet. --> NC 
+Umsatz-Ranking: Schalke und Frankfurt aus Top-20 verdrängt --> NC 
+Unter den Top 20 befindet sich neben den Bayern nur noch Borussia Dortmund (338 Millionen) aus der Bundesliga. --> ST 
+Der BVB ist weiterhin Zwölfter. --> NC  
+Der FC Schalke 04 und Eintracht Frankfurt sind im Gegensatz zum Vorjahr nicht mehr vertreten. --> NC 
+Neu im Ranking sind die vier englischen Klubs Leicester City (15.), West Ham United (16.), die Wolverhampton Wanderers (17.) sowie Aston Villa (20.).--> NC 
+Die Premier League stellt damit mit elf Klubs die große Mehrheit. --> NC 
+Insgesamt setzten die 20 Vereine demnach 8,2 Milliarden Euro um und bewegten sich damit fast auf dem Niveau der Saison 2019/20. --> NC 
+Der Rekord wurde in der Spielzeit 2018/19 mit 9,3 Milliarden Euro verbucht.--> NC 
+Im Schnitt erzielte jeder Klub einen Umsatz von 409 Millionen Euro.--> NC 
+Spieltagseinnahmen über einer Milliarde Euro weniger --> NC 
+Die größten Einbußen mussten im Bereich der Spieltagseinnahmen hingenommen werden.--> NC 
+Diese Erlöse seien laut Deloitte auf dem niedrigsten Niveau in der Geschichte der seit 25 Jahren durchgeführten Studie. --> NC 
+Lagen diese 2018/19 noch bei 1,5 Milliarden Euro, so verzeichneten die Klubs wegen der Zuschauer-Ausschlüsse in der abgelaufenen Saison Erlöse von 111 Millionen Euro. --> NC 
+
+
+
+
+TOTAL: 15 LINES: 
+INSTR = 0%
+SMALL_TALK = 6.66 % 
+NC = 93.33 % 

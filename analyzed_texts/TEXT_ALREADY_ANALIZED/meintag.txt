@@ -1,0 +1,31 @@
+Mein Tag --> ST
+Ich bin Anna, bin 16 Jahre alt und Schülerin. --> ST
+Morgens stehe ich um kurz vor 7 Uhr auf. --> ST
+Aufwachen kann ich nicht von allein. --> NC
+ Ein Wecker klingelt mich aus dem Schlaf. --> NC
+ Ich stehe auf und muss als erstes meistens auf die Toilette gehen. --> NC
+Ich wasche mir das Gesicht. --> ST
+ Dann dusche ich, zuerst ganz warm und am Schluss mit kaltem Wasser. --> NC
+ So werde ich richtig wach. --> NC
+ Zähne putzen muss auch sein, anschließend ziehe ich mich an.  --> ST
+ Meine Kleider habe ich mir schon am Abend davor zurecht gelegt. --> ST
+ Ich will morgens keine Zeit verlieren. --> ST
+ So kann ich ein bisschen später aufstehen. --> ST
+Das Frühstück lasse ich nie aus, ich habe Hunger am Morgen. Meistens esse ich Müsli oder Toast mit Marmelade. --> ST
+ Dazu trinke ich Tee oder Kaffee. --> ST
+ Bevor ich in die Schule gehe, muss ich noch mein Bett machen. --> ST
+ Das dauert aber selten länger als eine oder zwei Minuten. --> NC
+ Dann renne ich schon los zu meinem Schulbus. --> ST
+Nach der Schule esse ich zu Mittag und komme am Nachmittag heim. --> ST
+ Dann muss ich meistens noch Hausaufgaben machen. --> ST
+ Vor dem Abendessen habe ich noch Zeit um zu spielen oder um Freunde zu treffen. --> ST
+ Dann essen wir gemeinsam zu Abend.  --> ST
+ Bevor ich ins Bett gehe, schaue ich ein bisschen fern. --> ST
+ Dann gehe ich schlafen und schlafe von 22 Uhr bis morgens um 7. --> ST
+ 
+ 
+ 
+TOTAL: 15 LINES: 
+INSTR = 0%
+SMALL_TALK = 75 % 
+NC = 25  % 

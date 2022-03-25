@@ -1,0 +1,43 @@
+Deutschland (Audiodatei abspielen [ˈdɔɪ̯t͡ʃlant]; Vollform des Staatennamens seit 1949: Bundesrepublik Deutschland) ist ein Bundesstaat in Mitteleuropa.--> NC
+Er besteht seit 1990 aus 16 Ländern und ist als freiheitlich-demokratischer und sozialer Rechtsstaat verfasst.--> NC
+Die 1949 gegründete Bundesrepublik Deutschland stellt die jüngste Ausprägung des 1871 erstmals begründeten deutschen Nationalstaates dar.--> NC
+Bundeshauptstadt und Regierungssitz ist Berlin.--> NC
+Deutschland grenzt an neun Staaten, es hat Anteil an der Nord- und Ostsee im Norden sowie dem Bodensee und den Alpen im Süden. --> ST
+Es liegt in der gemäßigten Klimazone und verfügt über 16 National- und mehr als 100 Naturparks. --> ST
+Das heutige Deutschland hat 83 Millionen Einwohner und zählt bei einer Fläche von 357.588 Quadratkilometern mit durchschnittlich 232 Einwohnern pro Quadratkilometer zu den dicht besiedelten Flächenstaaten. --> NC
+Die bevölkerungsreichste deutsche Stadt ist Berlin; weitere Metropolen mit mehr als einer Million Einwohnern sind Hamburg, München und Köln; der größte Ballungsraum ist das Ruhrgebiet.--> NC
+Deutschlands Bevölkerung hat mit 1,57 Kindern pro Frau (2018) eine vergleichsweise niedrige Geburtenrate, die in den 2010er-Jahren leicht anstieg.--> NC
+Auf dem Gebiet Deutschlands ist die Anwesenheit von Menschen vor 500.000 Jahren durch Funde des Homo heidelbergensis sowie einiger prähistorischer Kunstwerke aus der späteren Altsteinzeit nachgewiesen.--> NC
+Während der Jungsteinzeit, um 5600 v. Chr., wanderten die ersten Bauern mitsamt Vieh und Saatgut aus dem Nahen Osten ein. --> NC
+Seit der Antike ist die lateinische Bezeichnung Germania für das Siedlungsgebiet der Germanen bekannt. --> NC
+Das ab dem 10. Jahrhundert bestehende römisch-deutsche Reich, das aus vielen Herrschaftsgebieten bestand, war wie der 1815 ins Leben gerufene Deutsche Bund und die demokratische Bewegung Vorläufer des späteren deutschen Nationalstaates. --> NC
+Das 1871 gegründete Deutsche Reich entwickelte sich rasch vom Agrar- zum Industriestaat. --> NC
+Nach dem verlorenen Ersten Weltkrieg wurde 1918 die Monarchie abgeschafft und die demokratische Weimarer Republik konstituiert. --> NC
+Ab 1933 führte die nationalsozialistische Diktatur zu politischer und rassistischer Verfolgung und gipfelte in der Ermordung von sechs Millionen Juden und Angehörigen anderer Minderheiten wie Sinti und Roma. --> NC
+Der vom NS-Staat 1939 begonnene Zweite Weltkrieg endete 1945 mit Deutschlands Niederlage. --> NC
+Das von den Siegermächten besetzte Land wurde 1949 geteilt, nachdem bereits 1945 seine Ostgebiete teils unter polnische, teils sowjetische Verwaltungshoheit gestellt worden waren. --> NC
+Der Gründung der Bundesrepublik als demokratischer westdeutscher Teilstaat mit Westbindung am 23. --> NC
+Mai 1949 folgte die Gründung der sozialistischen DDR am 7.Oktober 1949 als ostdeutscher Teilstaat unter sowjetischer Hegemonie. --> NC
+Die innerdeutsche Grenze war nach dem Berliner Mauerbau (ab 13. August 1961)abgeriegelt. --> NC
+Nach der friedlichen Revolution in der DDR 1989 erfolgte die Lösung der deutschen Frage durch die Wiedervereinigung beider Landesteile am 3. Oktober 1990, womit auch die Außengrenzen Deutschlands als endgültig anerkannt wurden. --> NC
+Durch den Beitritt der fünf ostdeutschen Länder sowie die Wiedervereinigung von Ost- und West-Berlin zur heutigen Bundeshauptstadt zählt die Bundesrepublik Deutschland seit 1990 16 Bundesländer. --> NC
+Deutschland ist Gründungsmitglied der Europäischen Union sowie deren bevölkerungsreichstes Land. --> NC
+Mit 18 anderen EU-Mitgliedstaaten bildet es eine Währungsunion, die Eurozone. --> NC
+Es ist Mitglied der UN, der OECD, der OSZE, der NATO, der G7, der G20 und des Europarates.--> NC
+Die Vereinten Nationen unterhalten seit 1951 ihren deutschen Sitz in Bonn („UNO-Stadt“). --> NC
+Die Bundesrepublik Deutschland gilt als einer der politisch einflussreichsten Staaten Europas und ist ein gesuchtes Partnerland auf globaler Ebene. --> NC
+Gemessen am Bruttoinlandsprodukt ist das marktwirtschaftlich organisierte Deutschland die größte Volkswirtschaft Europas und die viertgrößte der Welt. --> NC
+2016 war es die drittgrößte Export- und Import­nation. --> NC
+Aufgrund der Rohstoffarmut sowie der Automatisierung und Digitalisierung der Industrie entwickelt sich das Land, das auf die Qualität seines Bildungssystems angewiesen ist, zunehmend zur Informations- und Wissensgesellschaft. --> NC
+Frankfurt am Main ist als deutsches Finanzzentrum international von Bedeutung. --> NC
+Gemäß dem Index der menschlichen Entwicklung zählt Deutschland zu den sehr hoch entwickelten Ländern. --> NC
+Muttersprache der Bevölkerungsmehrheit ist die deutsche Sprache. --> ST
+Daneben gibt es Regional- und Minderheitensprachen und sowohl Deutsche als auch Migranten mit anderen Muttersprachen, von denen die bedeutendsten Türkisch und Russisch sind. --> ST
+Bedeutendste Fremdsprache ist Englisch, das in allen Bundesländern in der Schule gelehrt wird.--> ST
+Die Kultur Deutschlands ist vielfältig und wird neben zahlreichen Traditionen, Institutionen und Veranstaltungen beispielsweise in der Auszeichnung als UNESCO-Welterbe in Deutschland, in Kulturdenkmälern und als immaterielles Kulturerbe erfasst und gewürdigt. --> NC
+
+
+TOTAL: 107 LINES: 
+INSTR =0 %
+SMALL_TALK = 13.51% 
+NC = 86.48  % 
