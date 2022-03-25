@@ -1,6 +1,6 @@
 # Naive Bayes analiser
 
-This program aims to analyse texts using Naive Bayes algorithms, including the naive basics algorithm, including Multibinomial and Bernoulli data distribution.
+This program aims to analyse texts using Naive Bayes Algorithms, including the naive basics algorithm, including Multibinomial and Bernoulli data distribution.
 
 #            1st!
 
