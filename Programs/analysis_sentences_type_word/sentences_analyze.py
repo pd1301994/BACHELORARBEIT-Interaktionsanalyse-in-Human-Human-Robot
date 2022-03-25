@@ -6,7 +6,7 @@ instr_text  = an.analyzing_sentences('instructions')
 daten_cleaned = []
 
 
-with open('video_recognizer.txt.txt', 'r', encoding='UTF-8') as f:
+with open('video_recognizer.txt', 'r', encoding='UTF-8') as f:
     daten = f.readlines()
     daten = cl.cleaningdata(daten)
     for value in daten:
