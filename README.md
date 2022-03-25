@@ -21,11 +21,13 @@ Here we found following categorization programs:
 Here are all the texts which where analyzed for the comparison of the differrent categorization models.
 
   2.1 Text already analised
+  
+  
   In this folder we can find the text analyzed manually (not with the program)
 
 3.  Complete-analysis-of-text
 
-Inside this folder we find all the graphs and charts which show the results the text analyse. Also, in the .xlsx is found an analyse of the WER (word error rate) of the text transcription
+Inside this folder we find all the graphs and charts which show the results the text analyse. Also, in the .xlsx is found an analyse of the WER (word error rate) of the text transcription. 
 
 
 
