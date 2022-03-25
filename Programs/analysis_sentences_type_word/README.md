@@ -1,4 +1,12 @@
 
+# Text analysis: 
+This program has been created for academic purposes
+#            1st!
+
+````
+pip install -r requirements.txt
+````
+
 ### Analyzer of the given text
 
 The output of this program is the percentage of the conversation that is considered to be equivalent to the given category. By default, the program includes two categories, small talk and instructions. 
