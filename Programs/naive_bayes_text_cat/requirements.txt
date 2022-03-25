@@ -1,0 +1,4 @@
+nltk==3.7
+sklearn==0.0
+scikit-learn==1.0.2
+HanTa==0.2.0
