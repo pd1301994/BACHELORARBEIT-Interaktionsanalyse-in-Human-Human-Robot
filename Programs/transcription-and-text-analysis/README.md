@@ -12,7 +12,7 @@ Run the file text_transcriptor.py.
 The program transcribes the text file, divides it into 10-second segments and extracts the text from each of the segments (this type of technology only allows to extract 10mb).
 The created audio files are stored in a "list_dir" folder that will be created automatically. These audio files will be deleted once all the audio has been transcribed. This way, no space will be taken up on your local machine. 
 
-#  2. Analyzer of the given text
+#  2. Analyser of the given text
 The output of this program is the percentage of the conversation that is considered to be equivalent to the given category. 
 By default, the program includes two categories, small talk and instructions. A database has been created with the most common words in each category. 
 The text will be analyzed according to the occurrence or not of these words. 
