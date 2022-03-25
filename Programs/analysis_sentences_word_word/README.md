@@ -7,7 +7,7 @@ pip install -r requirements.txt
 ````
 
 ### Analyzer of the given text
-The output of this program is the percentage of the conversation that is considered to be equivalent to the given category. By default, the program includes two categories, small talk and instructions. The data bases would be created using the most common words and considering the of word before or after it.
+The output of this program is the percentage of the conversation that is considered to be equivalent to the given category. By default, the program includes two categories, small talk and instructions. The data bases would be created using the most common words and considering the word before or after it.
 
 If you want to analyze a text with the default program, simply run the program text_analysier.py and answer no to every question in the terminal.
 
