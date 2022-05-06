@@ -1,11 +1,11 @@
-Hallo Freunde I= 2 
-leider ist das Wochenende schon wieder vorbei und ich muss arbeiten I = 11 
-das /warm/ ist immer super /wenn/ man viel Freizeit I = 7 D = 0 S =2
-hat und vieles erledigen kann I = 5
-am Samstag war ich /kaufen/ und abends habe ich /gestern/ /gekocht/ /und/ /bin/ /Bescheid/ /am/ /sonst/ I = 7 D = 0 S  = 7
-am Sonntag bin ich in den Park gegangen und wir haben Enten gefüttert I = 13 D = 2 
-was macht ihr I = 3 D = 3
-bitte sehr aktiv oder bleibt ihr lieber zu Hause I = 8 D = 1 S = 1
+Hallo Freunde I= 0 
+leider ist das Wochenende schon wieder vorbei und ich muss arbeiten I = 0
+das /warm/ ist immer super /wenn/ man viel Freizeit I = 1 D = 0 S =2
+hat und vieles erledigen kann I = 0
+am Samstag war ich /kaufen/ und abends habe ich /gestern/ /gekocht/ /und/ /bin/ /Bescheid/ /am/ /sonst/ I = 0 D = 0 S  = 7
+am Sonntag bin ich in den Park gegangen und wir haben Enten gefüttert I = 0 D = 2 
+was macht ihr I = 0 D = 3
+bitte sehr aktiv oder bleibt ihr lieber zu Hause I = 0 D = 1 S = 1
 
-2 + 11 + 7 + 5+7+13+3+8 - (2+3+1) - (2+7+1)  = 56 - 6 - 10
-40/74 = 54.05 % 
+0+ (2+3+1) + (2+7+1)  = 16
+16/73 = 24.91 % 
