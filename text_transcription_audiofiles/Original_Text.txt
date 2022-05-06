@@ -1,7 +1,7 @@
-Hallo Freunde! I = 2
-Leider ist das Wochenende schon wieder vorbei und ich muss arbeiten. I = 11
-Das Wochenende ist immer super, weil man viel Freizeit hat und vieles erledigen kann I = 14
-Am Samstag war ich einkaufen und abends habe ich mit Freunden zusammen gekocht und einen Film geschaut. I = 17
-Am Sonntag bin ich mit Fabio in den Park gegangen und wir haben Enten gefüttert. I = 14
-Seid ihr sehr aktiv oder bleibt ihr lieber zuhause? I = 9
-Was macht ihr gerne am Wochenende? I = 6
+Hallo Freunde! N = 2
+Leider ist das Wochenende schon wieder vorbei und ich muss arbeiten. N = 11
+Das Wochenende ist immer super, weil man viel Freizeit hat und vieles erledigen kann N = 14
+Am Samstag war ich einkaufen und abends habe ich mit Freunden zusammen gekocht und einen Film geschaut. N = 17
+Am Sonntag bin ich mit Fabio in den Park gegangen und wir haben Enten gefüttert. N = 14
+Was macht ihr gerne am Wochenende? N = 6
+Seid ihr sehr aktiv oder bleibt ihr lieber zuhause? N = 9
