@@ -1,6 +1,9 @@
-Hallo Freunde I = 2
-leider Wochenende vorbei ich muss arbeiten 
-immer super weil man /Eliza/ /treadmill/ erledigen /Plan/  
-am Samstag war ich einkaufen /in/ /Aalen/  
-Unna zusammen gegangen wären endet  
+Hallo Freunde I = 0
+leider/ist/ /das/ Wochenende /schon wieder/ vorbei /und/ ich muss arbeiten D= 5
+/DAS WOCHENENDE IST/ immer super weil man /Eliza/ /treadmill/ /hat und vieles/ erledigen /Plan/  D= 6 S=3
+am Samstag war ich einkaufen /und abends habe ich mit Freunden zusammen gekocht und einen/  /in/ /Aalen/  S=2 d=10
+Unna zusammen gegangen wären endet  s=5 d=9
+d=6
 seid ihr sehr aktiv oder bleibt ihr lieber zuhause  
+
+(5+6+10+9+6)+3+2+5 = 46/73 = 63.01%
